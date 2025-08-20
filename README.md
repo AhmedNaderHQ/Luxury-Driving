@@ -13,7 +13,7 @@ The main goal is to provide a premium digital experience that matches the luxury
 ---
 
 ## 📷 Preview
-![Project Screenshot](images/photo-1492144534655-ae79c964c9d7.jpg)
+![Project Screenshot](images/screenshot.png)
 
 ---
 
@@ -98,3 +98,4 @@ project/
 ---
 
 © 2024 Ahmed Nader. All rights reserved.
+
